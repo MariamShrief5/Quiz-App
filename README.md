@@ -1,5 +1,5 @@
 #### Quiz App
-Quiz App** is a customizable online testing platform allowing users to test their knowledge across different subjects, difficulty levels, and question numbers. Designed for students, professionals, and anyone eager to learn, Quiz App offers a tailored experience for a variety of knowledge fields. Built with **HTML, CSS, and JavaScript**, the app is structured for easy navigation, engaging design, and immediate feedback on performance.
+Quiz App is a customizable online testing platform allowing users to test their knowledge across different subjects, difficulty levels, and question numbers. Designed for students, professionals, and anyone eager to learn, Quiz App offers a tailored experience for a variety of knowledge fields. Built with **HTML, CSS, and JavaScript**, the app is structured for easy navigation, engaging design, and immediate feedback on performance.
 ---
 ### Project Description
 Quiz App is a user-focused application where participants can select their desired subject, difficulty level, and number of questions for a quiz. Using JavaScript for logic and an API to fetch questions, the app evaluates the user’s responses and provides a final score. The responsive HTML and CSS layout ensures compatibility across devices, making it ideal for both casual and serious test-takers.
