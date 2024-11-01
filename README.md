@@ -38,10 +38,9 @@ Quiz App is a user-focused application where participants can select their desir
 https://github.com/user-attachments/assets/3c262545-8745-4e33-ae0e-3def341d829d
 
 # Screenshots:
-# Choose From Drop Down List
+# Choose From Drop Down List, Good Luck!
 - **Category**
 - **Difficulty Level**
-- **Number of Questions**
-  #Take Your Exam, Good Luck!  
+- **Number of Questions** 
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1bHl992hLq9JZCS63ZK340FtULIBwCvDZ) 
 
