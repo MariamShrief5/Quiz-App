@@ -42,5 +42,8 @@ https://github.com/user-attachments/assets/3c262545-8745-4e33-ae0e-3def341d829d
 - **Category**
 - **Difficulty Level**
 - **Number of Questions** 
-![Screenshot 1](https://drive.google.com/uc?export=view&id=1bHl992hLq9JZCS63ZK340FtULIBwCvDZ) 
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1bHl992hLq9JZCS63ZK340FtULIBwCvDZ)
+
+# Take Your Exam in Computer Field
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1cqq508xaKodMsuKlFUZTuGKn2Y5kL3JF)
 
