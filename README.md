@@ -34,3 +34,7 @@ Quiz App is a user-focused application where participants can select their desir
 - **JavaScript**: Logic handling, API requests, and interactivity.
 - **API**: Fetches question data dynamically.
 
+# Demo:
+https://github.com/user-attachments/assets/3c262545-8745-4e33-ae0e-3def341d829d
+
+
