@@ -50,3 +50,6 @@ https://github.com/user-attachments/assets/3c262545-8745-4e33-ae0e-3def341d829d
 # Style of Exam , Show Type of Questions, How many Question remaining, Show The Truthy Value or Falsy Value With Different Style and Color  
 ![Screenshot 3](https://drive.google.com/uc?export=view&id=1rV0v3dPZuWynyx_seQzMe-r6T3DeiQNQ)
 
+# Finally, Your Score
+![Screenshot 3](https://drive.google.com/uc?export=view&id=172FMZ8hLV_dyMcLYbCDHbh9NLChBbQhc)
+
