@@ -27,7 +27,7 @@ Quiz App is a user-focused application where participants can select their desir
 2. Chooses **Intermediate** level.
 3. Sets **10 questions** for the quiz.
 4. Completes the quiz and views the score along with correct answers.
----
+
 # Tools and Technologies:
 - **HTML**: Layout structure.
 - **CSS**: Styling and responsive design.
