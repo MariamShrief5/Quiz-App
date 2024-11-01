@@ -45,5 +45,8 @@ https://github.com/user-attachments/assets/3c262545-8745-4e33-ae0e-3def341d829d
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1bHl992hLq9JZCS63ZK340FtULIBwCvDZ)
 
 # Take Your Exam in Computer Field
-![Screenshot 1](https://drive.google.com/uc?export=view&id=1cqq508xaKodMsuKlFUZTuGKn2Y5kL3JF)
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1cqq508xaKodMsuKlFUZTuGKn2Y5kL3JF)
+
+# Style of Exam , Show Type of Questions, How many Question remaining, Show The Truthy Value or Falsy Value With Different Style and Color  
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1rV0v3dPZuWynyx_seQzMe-r6T3DeiQNQ)
 
